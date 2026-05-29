@@ -3,3 +3,6 @@ umur:19 tahun
 prodi:sistem informasi
 nim:f1B250007
 alamat:kopo jl cirangrang kota bandung
+
+Pengertian Laravel:
+Laravel adalah framework PHP modern yang dirancang untuk membuat aplikasi web dengan mudah dan cepat. Framework ini menyediakan struktur dan tools yang memudahkan developer dalam mengembangkan aplikasi web yang scalable, aman, dan maintainable. Laravel menggunakan arsitektur MVC (Model-View-Controller) dan menyediakan fitur-fitur seperti routing, ORM, authentication, database migration, dan banyak tools lainnya yang membuat development process menjadi lebih efisien.
